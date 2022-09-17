@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829102101318",
+    "firebase_url": "https://chinese-iptv-list-default-rtdb.firebaseio.com",
+    "project_id": "chinese-iptv-list",
+    "storage_bucket": "chinese-iptv-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829102101318:android:abba6faf162c271d720b47",
+        "android_client_info": {
+          "package_name": "com.bitlinks.chinese.iptv.m3ulist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829102101318-tbql027jabe7huf8sj5kd9d146sum1et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKzGlbl-94SyIoSQY-sbCFa9keWJ5nuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829102101318-tbql027jabe7huf8sj5kd9d146sum1et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
